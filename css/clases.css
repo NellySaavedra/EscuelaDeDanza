@@ -1,0 +1,98 @@
+
+h1 {
+	text-align: center;
+	margin-top: 20px;
+}
+ul {
+	text-align: center;
+}
+li {
+	display: inline-block;
+	margin: 20px 20px 30px 20px;
+}
+a {
+	text-decoration: none;
+}
+.Menu1negro {
+	color: black;
+}
+/*Panel Oferta de Clases*/
+.BackOferta {
+	background-color: #C9BDE8;
+	height: 1100px;
+}
+
+.TitleOferta {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+.ImgOferta {
+	width: 100%;
+	height: 400px;
+}
+.TextOferta {
+	width: 80%;
+	margin-top: -230px;
+	background-color: black;
+	color: white;
+	opacity: .5;
+	text-align: center;
+	margin-left: 10%;
+}
+.RowDos {
+	margin-top: 150px;
+}
+/*Copia de contacto*/
+.StrechShoes {
+	width: 100%;
+	height: 700px;
+}
+.titleContac {
+	text-align: left;
+	font-size: 35px;
+	color: #060347;
+	margin-bottom: 30px;
+	margin-top:-600px;
+}
+.BorderContac {
+	border: 2px solid #B8B4AE;
+	color: #B8B4AE;
+	padding: 10px 0px 10px 10px;
+	width: 500px;
+	height: 70px;
+}
+.Azul {
+	color: #050225;
+}
+.imgIco {
+	width: 50px;
+	height: 50px;
+	opacity: .5;
+	margin-right: 10px;
+}
+.DivIco {
+	float: left;
+}
+.TextCont {
+	padding-top: 12px;
+}
+.BotEnviar {
+	text-align: center;
+	width: 505px;
+	height: 70px;
+	background-color: #060347;
+	color: white;
+	font-size: 20px;
+	padding-top: 22px;
+	margin-top: -250px;
+	margin-bottom: 50px;
+	margin-left: 10px;
+	border-radius: 5px;
+}
+/*Arreglo de Footer*/
+h5 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+}

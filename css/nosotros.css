@@ -1,0 +1,119 @@
+/*Arreglo de Header*/
+h1 {
+	text-align: center;
+	margin-top: 20px;
+}
+ul {
+	text-align: center;
+}
+li {
+	display: inline-block;
+	margin: 20px 20px 30px 20px;
+}
+a {
+	text-decoration: none;
+}
+.Menu1negro {
+	color: black;
+}
+/*arreglo de panel 1*/
+#background {
+	width: 100%;
+	z-index: -1;
+}
+.Strech {
+	width: 100%;
+}
+.TextPanel1 {
+	width: 60%;
+	text-align: center;
+	color: white;
+	background-color: black;
+	opacity: .6;
+	margin: auto;
+	padding: 30px;
+	margin-top: -400px;
+}
+.PilarText {
+	margin-top: 60px;
+	text-align: center;
+	color: #696663;
+	padding-bottom: 90px;
+}
+/*Panel de Instructores*/
+
+.iNSTRUCTORES {
+	color: black;
+	text-align: center;
+	padding-top: 70px;
+}
+.ImgInstruc {
+	width: 100%;
+	height: 200px;
+	margin-top: 60px;
+}
+.MBInstruc {
+	margin-bottom: 70px;
+}
+h2 {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.frase {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+/*Copia de contacto*/
+.StrechShoes {
+	width: 100%;
+	height: 700px;
+}
+.titleContac {
+	text-align: left;
+	font-size: 35px;
+	color: #060347;
+	margin-bottom: 30px;
+	margin-top:-600px;
+}
+.Azul {
+	color: #050225;
+}
+.BorderContac {
+	border: 2px solid #B8B4AE;
+	color: #B8B4AE;
+	padding: 10px 0px 10px 10px;
+	width: 500px;
+	height: 70px;
+}
+.imgIco {
+	width: 50px;
+	height: 50px;
+	opacity: .5;
+	margin-right: 10px;
+}
+.DivIco {
+	float: left;
+}
+.TextCont {
+	padding-top: 12px;
+}
+.BotEnviar {
+	text-align: center;
+	width: 505px;
+	height: 70px;
+	background-color: #060347;
+	color: white;
+	font-size: 20px;
+	padding-top: 22px;
+	margin-top: -250px;
+	margin-bottom: 50px;
+	margin-left: 10px;
+	border-radius: 5px;
+}
+/*Arreglo de Footer*/
+h5 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+}
